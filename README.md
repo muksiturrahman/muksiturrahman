@@ -6,9 +6,7 @@ I build production mobile apps for iOS and Android, from the first screen to the
 Over 3 years of professional experience and 12+ live apps in social media, healthcare, IoT, commerce and news.
 I care about clean architecture, reliable real-time features and apps that are easy to maintain.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--1t8.pages.dev-1f2937?style=flat-square)](https://portfolio-1t8.pages.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muksitur%20Rahman%20Rafi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muksitur-rahman-rafi-5a90a0234/)
-[![Email](https://img.shields.io/badge/Email-muksiturrahman00%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white)](mailto:muksiturrahman00@gmail.com)
+**[Portfolio](https://portfolio-1t8.pages.dev/)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/muksitur-rahman-rafi-5a90a0234/)** &nbsp;·&nbsp; **[Email](mailto:muksiturrahman00@gmail.com)** — muksiturrahman00@gmail.com
 
 ---
 
