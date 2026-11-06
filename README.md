@@ -1,6 +1,6 @@
 ## Muksitur Rahman Rafi
 
-**Mobile App Developer · Flutter** — Dhaka, Bangladesh · working remotely for Potential Inc., Seoul
+**Flutter Developer · iOS and Android** — Dhaka, Bangladesh · working remotely for Potential Inc., Seoul
 
 I build production mobile apps for iOS and Android, from the first screen to the App Store and Google Play release.
 Over 3 years of professional experience and 12+ live apps in social media, healthcare, IoT, commerce and news.
@@ -14,9 +14,9 @@ I care about clean architecture, reliable real-time features and apps that are e
 
 | Period | Role | Company |
 | --- | --- | --- |
-| Jul 2024 – present | **Mobile App Developer** | Potential Inc. · Seoul, South Korea (remote) |
-| May 2024 – Aug 2024 | Application Developer (contract) | AKK Systems · Dhaka |
-| Aug 2023 – Apr 2024 | Software Engineer | Orangebd · Dhaka |
+| Jul 2024 – present | **Flutter Developer** | Potential Inc. · Seoul, South Korea (remote) |
+| May 2024 – Aug 2024 | Software Engineer (contract) | AKK Systems · Dhaka |
+| Aug 2023 – Apr 2024 | Junior Software Engineer | Orangebd · Dhaka |
 | Jan 2023 – Jul 2023 | Software Engineer Apprentice | GrapView · Dhaka |
 
 **At Potential Inc.** I build and maintain Flutter, React Native and full-stack products for clients in Korea:
