@@ -44,7 +44,7 @@ More apps and details are on my [portfolio](https://portfolio-1t8.pages.dev/).
 
 ### Personal projects
 
-- **[Fetchly](https://github.com/muksiturrahman/fetchly)** — a download manager for macOS with a Chrome extension: multi-connection downloads, crash-safe resume, one-click video downloads up to 4K
+- **[Fetchly](https://github.com/muksiturrahman/fetchly)** — a free, open-source download manager for Mac, Windows, Linux and Android, built in Flutter, with a Chrome extension: multi-connection downloads, crash-safe resume, one-click video downloads up to 4K
 - **[flutter_gemma_chat](https://github.com/muksiturrahman/flutter_gemma_chat)** — private, on-device AI chat with Google's Gemma models, built in Flutter
 - **Games in Flutter + Flame:** [nexus-survivors](https://github.com/muksiturrahman/nexus-survivors) · [rift-crawler](https://github.com/muksiturrahman/rift-crawler) · [grid-defender](https://github.com/muksiturrahman/grid-defender) · [neon-nova](https://github.com/muksiturrahman/neon-nova) · [cricket-game](https://github.com/muksiturrahman/cricket-game)
 
